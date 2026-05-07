@@ -48,3 +48,5 @@ hotel-booking-analytics/
 ├── streamlit_app.py
 ├── requirements.txt
 └── README.md
+|__images/
+  |___images.dashboard
